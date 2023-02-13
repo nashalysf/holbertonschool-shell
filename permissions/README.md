@@ -1,2 +1,2 @@
-su betty - change user to betty
-id -u -n - print current user name
+- su betty - change user to betty
+- id -u -n - print current user name
