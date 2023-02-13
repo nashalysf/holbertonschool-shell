@@ -3,3 +3,4 @@
 - groups - print user groups
 - chown [username] [file] - change file owner
 - touch [filename] - create a new empty file
+- chmod u+x [filename] - change execute permission of file
