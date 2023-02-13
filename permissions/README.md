@@ -2,3 +2,4 @@
 - id -u -n - print current user name
 - groups - print user groups
 - chown [username] [file] - change file owner
+- touch [filename] - create a new empty file
