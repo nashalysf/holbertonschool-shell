@@ -6,3 +6,8 @@
 - chmod u+x [filename] - change execute permission of file
 - chmod 754 [filename] - permission to owner and group owner rwxr and other users to r
 - chmod 751 [filename] - execution permission to the owner, the group owner and the other users
+- chmod 007 [filename] - 
+    Owner: no permission at all
+    Group: no permission at all
+    Other users: all the permissions
+
