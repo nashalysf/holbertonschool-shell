@@ -10,4 +10,5 @@
     Owner: no permission at all
     Group: no permission at all
     Other users: all the permissions
+    - chmod 753 [filename] - set file to -rwxr-x-wx
 
