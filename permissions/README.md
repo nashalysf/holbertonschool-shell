@@ -1,3 +1,4 @@
-- su betty - change user to betty
+- su [username] - change user to betty
 - id -u -n - print current user name
 - groups - print user groups
+- chown [username] [file] - change file owner
