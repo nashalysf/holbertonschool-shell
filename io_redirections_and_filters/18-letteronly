@@ -1,0 +1,2 @@
+#!/bin/bash
+grep -i 'n*' /etc/ssh/sshd_config
