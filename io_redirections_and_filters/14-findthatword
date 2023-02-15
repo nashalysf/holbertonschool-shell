@@ -1,2 +1,2 @@
 #!/bin/bash
-sort -o "root" /etc/passwd
+find "root" /etc/passwd
